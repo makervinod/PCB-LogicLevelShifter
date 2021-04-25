@@ -7,3 +7,4 @@ Components Required:
 4. LM11117-3.3 SMD(SOT-223) Voltage Regulator x 1
 5. 0.1uF SMD(0805) Capacitors x 2
 6. Red LED SMD(0805) x 1
+7. 8-pin Male Headers 2.54mm Pitch x 2
