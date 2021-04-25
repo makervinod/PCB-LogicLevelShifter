@@ -4,6 +4,6 @@
 Components Required:
 1. N-channel SMD(SOT-23) Mosfets x 6
 2. 10k SMD(0805) Resistors x 12
-4. LM11117-3.3 Voltage Regulator x 1
+4. LM11117-3.3 SMD(SOT-223) Voltage Regulator x 1
 5. 0.1uF SMD(0805) Capacitors x 2
 6. Red LED SMD(0805) x 1
